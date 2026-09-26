@@ -1,6 +1,6 @@
 # ⏳ Focus Planner Clock
 
-A modern productivity desktop app designed for students and professionals to manage time, tasks, and focus — all in one place.
+A modern productivity desktop app designed for students and professionals to manage time, tasks, and focus — all in one place
 
 ## ✨ Features
 
